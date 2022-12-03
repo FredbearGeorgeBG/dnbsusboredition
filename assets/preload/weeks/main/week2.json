@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Spomborness",
+			"spombori",
+			[
+				175,
+				20,
+				40
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "spombori",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Welcome to Spombori World!",
+	"weekName": "Spombori Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

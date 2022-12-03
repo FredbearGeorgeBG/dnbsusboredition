@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Funnicorn",
+			"bambi",
+			[
+				0,
+				202,
+				0
+			]
+		],
+		[
+			"Anti-cornstealing",
+			"bambi",
+			[
+				0,
+				182,
+				0
+			]
+		],
+		[
+			"Loseness",
+			"angrymarcello",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "farm",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bambi Fun farm!",
+	"weekName": "Bambi Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

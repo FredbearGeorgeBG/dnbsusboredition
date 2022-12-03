@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-71,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				-14,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				-70,
+				-139
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-88,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [
+				-40,
+				-18
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi-old-3D",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bambiold-3d",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		80
+	],
+	"camera_position": [
+		-330,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 2.3
+}

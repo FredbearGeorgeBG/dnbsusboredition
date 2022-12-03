@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-81,
+				35
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "SpomboriLeft"
+		},
+		{
+			"offsets": [
+				110,
+				40
+			],
+			"indices": [],
+			"fps": 31,
+			"anim": "idle",
+			"loop": true,
+			"name": "SpomboriIdle"
+		},
+		{
+			"offsets": [
+				56,
+				-165
+			],
+			"indices": [],
+			"fps": 31,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "SpomboriRight"
+		},
+		{
+			"offsets": [
+				-8,
+				-65
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": true,
+			"name": "SpomboriUp"
+		},
+		{
+			"offsets": [
+				0,
+				-188
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "SpomboriDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spombori",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spombori",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		20,
+		40
+	],
+	"camera_position": [
+		80,
+		460
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

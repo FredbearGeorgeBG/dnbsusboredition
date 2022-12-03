@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marcelloangry.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="279" height="279"/>
+	<SubTexture name="Idle0001" x="279" y="0" width="279" height="279"/>
+	<SubTexture name="Idle0002" x="558" y="0" width="279" height="279"/>
+	<SubTexture name="Idle0003" x="837" y="0" width="279" height="279"/>
+	<SubTexture name="down0000" x="1116" y="0" width="352" height="298"/>
+	<SubTexture name="down0001" x="1468" y="0" width="352" height="298"/>
+	<SubTexture name="down0002" x="0" y="298" width="352" height="298"/>
+	<SubTexture name="down0003" x="352" y="298" width="352" height="298"/>
+	<SubTexture name="left0000" x="704" y="298" width="335" height="300"/>
+	<SubTexture name="left0001" x="1039" y="298" width="335" height="300"/>
+	<SubTexture name="left0002" x="1374" y="298" width="335" height="300"/>
+	<SubTexture name="left0003" x="1709" y="298" width="335" height="300"/>
+	<SubTexture name="right0000" x="0" y="598" width="333" height="295"/>
+	<SubTexture name="right0001" x="333" y="598" width="333" height="295"/>
+	<SubTexture name="right0002" x="666" y="598" width="333" height="295"/>
+	<SubTexture name="right0003" x="999" y="598" width="333" height="295"/>
+	<SubTexture name="up0000" x="1332" y="598" width="299" height="321"/>
+	<SubTexture name="up0001" x="1631" y="598" width="299" height="321"/>
+	<SubTexture name="up0002" x="0" y="919" width="299" height="321"/>
+	<SubTexture name="up0003" x="299" y="919" width="299" height="321"/>
+</TextureAtlas>

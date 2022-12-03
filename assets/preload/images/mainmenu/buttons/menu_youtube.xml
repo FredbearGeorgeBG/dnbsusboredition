@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_donate.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="youtube basic0000" x="0" y="0" width="437" height="120"/>
+	<SubTexture name="youtube basic0001" x="0" y="0" width="437" height="120"/>
+	<SubTexture name="youtube basic0002" x="0" y="0" width="437" height="120"/>
+	<SubTexture name="youtube basic0003" x="437" y="0" width="437" height="120"/>
+	<SubTexture name="youtube basic0004" x="437" y="0" width="437" height="120"/>
+	<SubTexture name="youtube basic0005" x="437" y="0" width="437" height="120"/>
+	<SubTexture name="youtube basic0006" x="0" y="120" width="437" height="120"/>
+	<SubTexture name="youtube basic0007" x="0" y="120" width="437" height="120"/>
+	<SubTexture name="youtube basic0008" x="0" y="120" width="437" height="120"/>
+	<SubTexture name="youtube white0000" x="437" y="120" width="558" height="174"/>
+	<SubTexture name="youtube white0001" x="0" y="294" width="558" height="174"/>
+	<SubTexture name="youtube white0002" x="0" y="468" width="558" height="174"/>
+</TextureAtlas>

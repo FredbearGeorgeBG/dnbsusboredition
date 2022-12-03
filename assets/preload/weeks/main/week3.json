@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Davetionalled",
+			"dave",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Welcome to Dave House!",
+	"weekName": "Dave Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
